@@ -140,4 +140,4 @@ This project is free to use for learning and academic purposes.
 
 ## ✨ Author
 
-Developed by **Spark (Antony)** with ❤️ for learning Java + MySQL.
+Developed by **Amal-Rekshin**
